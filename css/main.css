@@ -1,0 +1,19 @@
+/* MAIN CSS */
+body {
+    overflow: hidden;
+    background-color: #000000;
+}
+.section-border {
+    width: 100%; 
+    height: 30%;
+}
+.section-main {
+    width: 100%; 
+    height: 40%;
+} 
+.full-image {
+    height: 100%;
+    width: 100%;
+    object-fit: contain;
+    object-position: center;
+}
